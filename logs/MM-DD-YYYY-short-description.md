@@ -1,4 +1,4 @@
-# <System / Component> – <Short Problem Description>
+# System / Component – Short Problem Description
 
 ## Symptoms
 - What was observed
