@@ -13,8 +13,8 @@
 - RAM: G.Skill Trident Z5 RGB 96 GB (2 × 48 GB) DDR5-6800 CL34
 - Storage: 1TB Samsung 990 Pro
 - BIOS version: Unknown
-- Displays: Multiple monitors tested
-- OS state: Not booting to OS during issue
+- Displays: Samsung S32A700NWN
+- OS: Debian 12
 
 ## Hypotheses
 - BIOS version lacks 14th-gen microcode
