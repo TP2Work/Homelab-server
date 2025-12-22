@@ -3,8 +3,6 @@
 ## Symptoms
 - POST code indicates no memory installed
 - System does not boot
-- RAM is listed on QVL
-- Modules installed in recommended slots
 
 ## Hardware
 - Motherboard: ASUS Z790 Hero
@@ -16,10 +14,14 @@
 - Displays: Samsung S32A700NWN
 - OS: Debian 12
 
+## Observations
+- RAM is listed on QVL
+- Modules installed in recommended slots
+
 ## Hypotheses
-- BIOS version lacks 14th-gen microcode
+- BIOS version lacks 14th-gen support
 - Bent CPU socket pins
 - Faulty DIMM or board
 
 ## Outcome
-- ongoing
+- Ongoing
