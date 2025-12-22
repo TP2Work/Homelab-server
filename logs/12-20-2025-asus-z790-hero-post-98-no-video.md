@@ -50,7 +50,7 @@
 - Issue resolved by switching to a different monitor
 - System successfully enters BIOS and proceeds past POST
 
-## Note
+## Notes
 - Updating motherboard to the latest BIOS might fix the display bug
 
 ## References
