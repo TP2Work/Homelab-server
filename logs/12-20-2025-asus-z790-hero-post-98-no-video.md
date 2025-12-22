@@ -8,6 +8,7 @@
 - Storage: NVMe drives (removed during testing)
 - BIOS version: 3001 x64
 - Displays: Multiple monitors tested
+   - Samsung S32A700NWN -> Acer XF270H -> MSI G272QPF E2
 
 ## POST / Q-Code
 - Code `98`: Console input devices connect
@@ -25,8 +26,8 @@
    - Moving RAM from DIMM_A2 to DIMM_B2 => System hang on boot and code `D7`
    - Moving RAM back to DIMM_A2 => System hang on boot and code `D7`
 6. Based on external report, attempted blind BIOS input:
-   - Pressed `F10` => POST code changed to `B4`
-   - Pressed `F1` => POST code changed to `A9`
+   - `F10` => POST code changed to `B4`
+   - `F1` => POST code changed to `A9`
 7. Switched to a different monitor
 8. Video signal appeared and BIOS became visible
 
