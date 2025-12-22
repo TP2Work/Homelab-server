@@ -1,12 +1,5 @@
 # ASUS Z790 Hero – Continuation from 12-19-2025-z790-hero-memory-post-issue log
 
-## Symptoms
-- System powers on but POST Code 98 / No Video Output
-- POST process appears stalled
-- Q-Code cycles through multiple values
-- BIOS appears reachable but not visible
-- CPU idle temperature ~50 °C once BIOS is accessible
-
 ## Hardware
 - Motherboard: ASUS Z790 Hero
 - CPU: Intel i9-14900K
@@ -38,7 +31,7 @@
 7. Switched to a different monitor
 8. Video signal appeared and BIOS became visible
 
-## Observations
+- ## Observations
 - System was entering BIOS without producing video output
 - POST code `A9` confirms BIOS setup mode
 - Initial monitor failed to display UEFI output
@@ -59,6 +52,7 @@
 
 ## Note
 - Updating motherboard to the latest BIOS might fix the display bug
+
 ## References
 - ASUS community discussion on POST code 98 behavior:
   https://www.reddit.com/r/ASUS/comments/11w6sfc/motherboard_stuck_on_code_98/
