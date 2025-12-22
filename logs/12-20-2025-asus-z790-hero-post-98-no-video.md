@@ -30,7 +30,7 @@
 7. Switched to a different monitor
 8. Video signal appeared and BIOS became visible
 
-- ## Observations
+## Observations
 - System was entering BIOS without producing video output
 - POST code `A9` confirms BIOS setup mode
 - Initial monitor failed to display UEFI output
