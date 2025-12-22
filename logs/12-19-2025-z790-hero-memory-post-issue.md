@@ -8,20 +8,16 @@
 
 ## Hardware
 - Motherboard: ASUS Z790 Hero
-- CPU: i9-14900K
-- RAM: G.Skill Trident Z5 RGB 96 GB (2 x 48 GB) DDR5-6800 CL34
-- BIOS version: unknown
-
-## Steps Taken
-- Reseated RAM
-- Tested single DIMM (next)
-- Tried alternate slots (next)
-- Cleared CMOS
-- Verified CPU seating (LGA1700)
+- CPU: Intel i9-14900K
+- CPU cooler: Noctua NH-U9S 46.44 CFM
+- RAM: G.Skill Trident Z5 RGB 96 GB (2 × 48 GB) DDR5-6800 CL34
+- Storage: 1TB Samsung 990 Pro
+- BIOS version: Unknown
+- Displays: Multiple monitors tested
+- OS state: Not booting to OS during issue
 
 ## Hypotheses
 - BIOS version lacks 14th-gen microcode
-- Memory training failure at XMP speeds
 - Bent CPU socket pins
 - Faulty DIMM or board
 
