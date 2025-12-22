@@ -1,7 +1,7 @@
-# System / Component – Short Problem Description
-
-## Tilte
+# File Name
 - MM-DD-YYYY-short-description.md
+
+## System / Component – Short Problem Description
 
 ## Symptoms
 - What was observed
@@ -12,11 +12,6 @@
 - OS / firmware versions
 - Network context (if applicable)
 
-## Error Codes / Logs
-- POST codes
-- Error messages
-- Command output (summarized)
-
 ## Steps Taken
 1. What was changed
 2. In what order
@@ -24,14 +19,17 @@
 
 ## Observations
 - Unexpected behavior
-- Patterns noticed
+- Patterns
 - Confirmed states
 
 ## Root Cause
 - Final determination (or best current explanation)
 
 ## Outcome
-- Resolved / unresolved
+- Resolved / unresolved / ongoing
 
 ## Notes
 - Details that stand out
+
+## References
+- Material(s) used to diagnose the problem
