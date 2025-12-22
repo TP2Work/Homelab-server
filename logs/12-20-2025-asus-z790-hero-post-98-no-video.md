@@ -8,7 +8,6 @@
 - Storage: NVMe drives (removed during testing)
 - BIOS version: 3001 x64
 - Displays: Multiple monitors tested
-- OS state: Not booting to OS during issue
 
 ## POST / Q-Code Observations
 - Code `98`: Console input devices connect
