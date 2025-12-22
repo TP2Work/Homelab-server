@@ -9,7 +9,7 @@
 - BIOS version: 3001 x64
 - Displays: Multiple monitors tested
 
-## POST / Q-Code Observations
+## POST / Q-Code
 - Code `98`: Console input devices connect
 - Code `D7`: No Console Input Devices are found
 - Code `B4`: USB hot plug
