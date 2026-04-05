@@ -1,7 +1,7 @@
 Collects system and VM health metrics from a Proxmox server
 and sends a daily email report.
 
-Metrics include:
+Metrics include
 - CPU load and temperatures
 - Memory usage
 - Disk usage and SMART health
